@@ -1,0 +1,80 @@
+.heading
+{
+	font-family: Calibri;
+	color:#ff9b07 !important;
+	font-size: 50px;
+	margin-bottom: 40px;
+}
+.data1
+{
+	margin-bottom: 20px;
+}
+.container
+{
+	background:#ff00ea14;
+	width: 60% !important;
+}
+#myMain
+{
+	margin-top:40px;
+	width:55%;
+	height: 30px;
+}
+img
+{
+	width:8%;
+	height: 50px;
+	border-radius: 50%;
+	margin-left: -30px;	
+	margin-top: -4px;
+}
+.mymain
+{
+	box-shadow: 1px 1px 7px gray; 
+}
+.box
+{
+	margin-left:130px;
+	padding:2px;
+	margin-bottom: 10px;
+	background: white;
+	width:55%;
+	border-left:4px solid #ff9b07;
+	display: flex;
+}
+.box p
+{
+	color: black;
+	font-family: Calibri;
+	font-size: 25px;
+}
+table
+{
+	width: 100%;
+}
+#a7
+{
+	float: right;
+	padding: 10px;
+}
+label
+{
+	color:#ff9b07;
+	font-size:20px;	
+}
+table
+{
+	width: 100%;
+}
+label
+{
+	color:#ff9b07;
+	font-size:20px;	
+}
+.color
+{
+	color:#ff9b07;
+	font-size:20px;	
+	font-family: Calibri;
+	text-align: center;
+}
